@@ -1,7 +1,7 @@
 name: Jonah Test
 favicon: null
-layout_spectrum: 0.6871010970789939
-typography_spectrum: 0.2757092104293406
+layout_spectrum: 1
+typography_spectrum: 0.63592
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.980947635602206
-  lightness: 0.8258776345755905
-  saturation: 0.3356995163485408
-  rhythmicContrast: 0.35503421211615205
+  brandStrength: 0.25
+  lightness: 0.3125
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
